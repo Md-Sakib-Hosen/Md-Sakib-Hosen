@@ -11,7 +11,7 @@
 - **📘 Case Study 01 (ISP Core & Failover):** [MikroTik RouterOS v7 Dual-WAN Failover, PPPoE \& PCQ Bandwidth Engineering Lab](https://www.google.com/search?q=https://sakib-hosen-dev.github.io/case-studies.html%23mikrotik)
 - **📗 Case Study 02 (OpenWrt 25.12.6 Edge):** [ASUS RT-AX52 OpenWrt 25.12.6 (apk) — HFO vs. SQM CAKE, Quad DoH \& 480K+ AdBlock-Fast](https://www.google.com/search?q=https://sakib-hosen-dev.github.io/case-studies.html%23openwrt)
 - **📱 Case Study 03 (Mobile & Telemetry):** [Mobile-First Router Administration \& Observability — Yet Another LuCI App, OppsError404 \& LAN Prometheus](https://www.google.com/search?q=https://sakib-hosen-dev.github.io/case-studies.html%23openwrt-mobile)
-- **🖥️ Case Study 04 (Hardware & Enterprise IT):** [Custom Workstation Assembly, Thermal Burn-In \& Enterprise Windows Support](https://www.google.com/search?q=https://sakib-hosen-dev.github.io/case-studies.html%23hardware)
+
 - **🏛️ Legacy Portfolio Archive:** [md-sakib-hosen.github.io](https://md-sakib-hosen.github.io/)
 - **🏅 Certifications & Credentials:** MikroTik Certified Network Associate (**MTCNA**) · MikroTik Certified Routing Engineer (**MTCRE**)
 
